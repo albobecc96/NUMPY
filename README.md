@@ -1,1 +1,1 @@
-Useful reminders od numpy library
+Useful reminders of numpy library
